@@ -19,10 +19,18 @@ $ srr27 --status
 
 ---
 
-## `session`
+## `currently running`
 
 <div align="center">
 
-<img src="assets/terminal.svg" alt="terminal session" width="100%" />
+<img src="assets/terminal.svg" alt="currently running" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/clash.svg" alt="beam clash" width="100%" />
 
 </div>
