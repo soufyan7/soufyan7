@@ -6,24 +6,11 @@
 
 ---
 
-## `whoami`
-
-```bash
-$ srr27 --status
-
-  role     : AI Engineer / Security-minded Developer
-  focus    : LLM systems · offensive security · automation
-  building : tools that think, and hold up when someone pokes at them
-  rule     : if I can't explain how it works, it doesn't ship
-```
-
----
-
-## `currently running`
+## `session`
 
 <div align="center">
 
-<img src="assets/terminal.svg" alt="currently running" width="100%" />
+<img src="assets/terminal.svg?v=4" alt="terminal session" width="100%" />
 
 </div>
 
