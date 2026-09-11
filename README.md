@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="assets/terminal.svg?v=5" alt="whoami" width="100%" />
+<img src="assets/terminal.svg" alt="whoami" width="100%" />
 
 </div>
 
